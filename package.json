@@ -1,5 +1,5 @@
 {
-    "name": "fio-service-paytpid",
+    "name": "@fioprotocol/fio-service-paytpid",
     "version": "1.0.0",
     "description": "A service that calls tpidclaim to distribute tpid rewards.",
     "main": "./pay-tpid-rewards.js",
